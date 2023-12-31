@@ -17,3 +17,5 @@ Spotipy Python library and various AWS services like Lambda for computation, S3 
 - Schema inferred using Glue Crawler for new S3 data.
 - AWS Glue Data Catalog manages metadata.
 - Final dataset queryable via Amazon Athena for in-depth analysis.
+
+<img width="738" alt="Screenshot 2023-12-28 at 5 09 22 PM" src="https://github.com/RaunakSMatharu/Spotify_Data_Pipeline/assets/114725836/8fea570f-c14e-4e74-80a7-064281fb21a1">
